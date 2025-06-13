@@ -1,0 +1,35 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.log
+
+# IntelliJ / VSCode / Eclipse
+.idea/
+*.iml
+*.iws
+*.ipr
+*.sw?
+.vscode/
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# Python environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Output data
+output/
+*.csv
+
+# System backup / misc
+*~
