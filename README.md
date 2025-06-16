@@ -6,6 +6,12 @@ Visual exploration is supported via an interactive Python Dash dashboard.
 
 ---
 
+## Preview
+### Dashboard
+![Dashboard](dash.png)
+
+---
+
 ## Goal
 
 - Build an industrial-style Java pricer core
